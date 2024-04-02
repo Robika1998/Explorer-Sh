@@ -1,0 +1,85 @@
+{
+    "products" : [
+        {
+          "id": "1",
+          "brand": "Here&Now",
+          "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+          "currentPrice": "150",
+          "standardPrice": "300",
+          "discount": "50",
+          "name": "Reel"
+        },
+        {
+          "id": "2",
+          "brand": "rertert&Now",
+          "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+          "currentPrice": "120",
+          "standardPrice": "3030",
+          "discount": "50",
+          "name": "Cattom"
+        },
+        {
+          "id": "3",
+          "brand": "tre&Now",
+          "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+          "currentPrice": "190",
+          "standardPrice": "300",
+          "discount": "50",
+          "name": "Otton"
+        },
+        {
+            "id": "1",
+            "brand": "Here&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "150",
+            "standardPrice": "300",
+            "discount": "50",
+            "name": "Reel"
+          },
+          {
+            "id": "2",
+            "brand": "rertert&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "120",
+            "standardPrice": "3030",
+            "discount": "50",
+            "name": "Cattom"
+          },
+          {
+            "id": "3",
+            "brand": "tre&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "190",
+            "standardPrice": "300",
+            "discount": "50",
+            "name": "Otton"
+          },
+          {
+            "id": "1",
+            "brand": "Here&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "150",
+            "standardPrice": "300",
+            "discount": "50",
+            "name": "Reel"
+          },
+          {
+            "id": "2",
+            "brand": "rertert&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "120",
+            "standardPrice": "3030",
+            "discount": "50",
+            "name": "Cattom"
+          },
+          {
+            "id": "3",
+            "brand": "tre&Now",
+            "image": "https://material.angular.io/assets/img/examples/shiba2.jpg",
+            "currentPrice": "190",
+            "standardPrice": "300",
+            "discount": "50",
+            "name": "Otton"
+          }
+    ]
+}
