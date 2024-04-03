@@ -1,0 +1,24 @@
+<div class="flex justify-center">
+  <mat-card class="shadow w-6/12">
+    <img mat-card-image class="!h72" [src]="product.image" />
+    <div class="p-4">
+      <h1>{{ product.name }}</h1>
+      <h2>{{ product.brand }}</h2>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
+        iste tempore eaque, hic reprehenderit repellat d Repellat temporibus
+        possimus saepe odit.
+      </p>
+      <div class="flex gap-2">
+        <span>{{ product.currentPrice }}</span>
+        <span
+          ><s>{{ product.standardPrice }}</s></span
+        >
+        <span>({{ product.discount }}%) OFF</span>
+      </div>
+      <div class="flex justify-center">
+        <button mat-raised-button color="accent" [routerLink]="'/edit-product/'+product.id">Edit</button>
+      </div>
+    </div>
+  </mat-card>
+</div>
